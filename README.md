@@ -23,3 +23,7 @@ From a business requirements standpoint, we will be building a basic Express ser
 4. tests:
    - Unit Tests: npm run test
    - Lint Tests: npm run lint
+
+## UML diagram
+
+![](./assets/basic-express-server-uml.png)
